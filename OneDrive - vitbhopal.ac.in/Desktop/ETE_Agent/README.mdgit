@@ -1,0 +1,1 @@
+"# DeccanAiRepo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AlokShukl12/DeccanAiRepo.gitgit push -u origin main
